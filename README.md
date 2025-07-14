@@ -16,7 +16,7 @@ A mobile-responsive web application demonstrating virtual fashion try-on technol
 
 ## 🚀 Live Demo
 
-[Visit the live demo](https://actcian.github.io/fashion-virtual-tryon)
+[Visit the live demo](https://actcian.github.io/virtual-try-on)
 
 ## 🛠️ Technology Stack
 
